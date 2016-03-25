@@ -1,0 +1,1 @@
+This is my first project in Kaggle. Trying to write different classifiers to recognize hand written digits. you can find out more about the data sets and problem at : https://www.kaggle.com/c/digit-recognizer/data
